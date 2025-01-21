@@ -1,0 +1,22 @@
+{
+    "name": "try-github-copilot",
+    "version": "1.0.0",
+    "description": "",
+    "main": "",
+    "scripts": {
+        "test": "npx jest"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/parasagrawal71/try-github-copilot.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/parasagrawal71/try-github-copilot/issues"
+    },
+    "homepage": "https://github.com/parasagrawal71/try-github-copilot#readme",
+    "devDependencies": {
+        "jest": "^29.7.0"
+    }
+}
